@@ -16,11 +16,11 @@ const Home = () => {
             <br />
             <p>You are logged in!</p>
             <br />
-            <Link to="/editor">Go to the Editor page</Link>
+            {/* <Link to="/editor">Go to the Editor page</Link> */}
             <br />
             <Link to="/admin">Go to the Admin page</Link>
             <br />
-            <Link to="/lounge">Go to the Lounge</Link>
+            {/* <Link to="/lounge">Go to the Lounge</Link> */}
             <br />
             <Link to="/linkpage">Go to the link page</Link>
             <div className="flexGrow">
