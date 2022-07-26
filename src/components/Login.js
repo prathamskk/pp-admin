@@ -106,12 +106,12 @@ const Login = () => {
                     <label htmlFor="persist">Trust This Device</label>
                 </div>
             </form>
-            <p>
+            {/* <p>
                 Need an Account?<br />
                 <span className="line">
                     <Link to="/register">Sign Up</Link>
                 </span>
-            </p>
+            </p> */}
         </section>
 
     )
